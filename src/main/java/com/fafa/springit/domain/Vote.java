@@ -1,4 +1,4 @@
-package com.fafa.springit.model;
+package com.fafa.springit.domain;
 
 
 import javax.persistence.Entity;
